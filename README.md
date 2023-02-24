@@ -1,10 +1,12 @@
-<h1 align="center">Hi , I'm Anas</h1>
+<h1 align="center">Hi, I'm Anas</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas&label=Profile%20views&color=0e75b6&style=flat" alt="anas" /> </p>
 
 - 📫 How to reach me **sbiaanas0022@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://instagram.com/anas_sb0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anas_sb0" height="30" width="40" /></a>
+<a href="https://discord.gg/『Ashen_LOrd〆』#5734" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="『Ashen_LOrd〆』#5734" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
